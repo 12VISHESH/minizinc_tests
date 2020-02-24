@@ -21,4 +21,14 @@ I solved  the exmaple which is  given in the hanbook and also  solved the simila
 ### Medium
 #### (a) Install the Python package and run some of the examples; describe how this package interfaces MiniZinc with Python and returns its result;
 
-Open the [Python test .](https://github.com/12VISHESH/minizinc_tests/blob/master/mini_tests/python%20test.png)
+Steps for runing the minizinc model --
+
+Open the CMD 
+
+type this command on cmd--pip install minizinc
+
+But make sure you have Minizinc enviroment in your system otherwise it give assertation error.
+
+Open [Python test .](https://github.com/12VISHESH/minizinc_tests/blob/master/mini_tests/python%20test.png)
+
+
